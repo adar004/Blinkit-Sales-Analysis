@@ -47,8 +47,8 @@ To analyze Blinkit's sales data and uncover patterns, trends, and opportunities 
 5. **Sales by Outlet Size** *(Donut/Pie Chart)*  
    Assess whether outlet size correlates with higher sales.
 
-6. **Sales by Outlet Location** *(Horizonal Bar Chart)*  
-   Visualize geographic distribution of sales.
+6. **Sales by Outlet Location Tier** *(Horizonal Bar Chart)*  
+   Visualize what outlet tier with total sales.
 
 ---
 
